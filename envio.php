@@ -19,7 +19,7 @@
 	$mensaje=$mensaje . '<table> ';
 	$mensaje=$mensaje . '<tr> ';
 	$mensaje=$mensaje . '<td> ';
-	$mensaje=$mensaje . '<img src="http://www.familog.com/franccesca/imagenes/logo.jpg" width="100px" /> ';
+	$mensaje=$mensaje . '<img src="http://www.familog.com/fran/imagenes/logo.jpg" width="100px" /> ';
 	$mensaje=$mensaje . '<td> ';
 	$mensaje=$mensaje . '</td> ';
 	$mensaje=$mensaje . '</tr> ';

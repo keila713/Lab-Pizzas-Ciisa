@@ -9,17 +9,17 @@
 		case 1:
 			$pedido = "Pizza Mediterránea";
 			$precio = "$14.990.-";
-			$imagen = "http://www.familog.com/franccesca/imagenes/pizza2.jpg";
+			$imagen = "http://www.familog.com/fran/imagenes/pizza2.jpg";
 			break;
 		case 2: 
 			$pedido = "Ñoquis con salsa boloñesa";
 			$precio = "$6.990.-";
-			$imagen = "http://www.familog.com/franccesca/imagenes/%C3%B1oquis.jpg";
+			$imagen = "http://www.familog.com/fran/imagenes/%C3%B1oquis.jpg";
 			break;
 		case 3:
 			$pedido = "Tiramisú";
 			$precio = "$2.990.-";
-			$imagen = "http://www.familog.com/franccesca/imagenes/tiramisu.jpg";
+			$imagen = "http://www.familog.com/fran/imagenes/tiramisu.jpg";
 			break;
 	}
 	
@@ -49,7 +49,7 @@
 	$mensaje=$mensaje . '<table> ';
 	$mensaje=$mensaje . '<tr> ';
 	$mensaje=$mensaje . '<td> ';
-	$mensaje=$mensaje . '<img src="http://www.familog.com/franccesca/imagenes/logo.jpg" width="100px" /> ';
+	$mensaje=$mensaje . '<img src="http://www.familog.com/fran/imagenes/logo.jpg" width="100px" /> ';
 	$mensaje=$mensaje . '<td> ';
 	$mensaje=$mensaje . '</td> ';
 	$mensaje=$mensaje . '</tr> ';
@@ -90,7 +90,7 @@
 	$mensaje=$mensaje . '<table> ';
 	$mensaje=$mensaje . '<tr> ';
 	$mensaje=$mensaje . '<td> ';
-	$mensaje=$mensaje . '<img src="http://fepifani.informaticaciisa.cl/Evaluacion3-Fran/imagenes/logo.jpg" width="100px" alt="Logo CIISA HOT" /> ';
+	$mensaje=$mensaje . '<img src="http://familog.com/fran/imagenes/logo.jpg" width="100px" alt="Logo CIISA HOT" /> ';
 	$mensaje=$mensaje . '<td> ';
 	$mensaje=$mensaje . '</td> ';
 	$mensaje=$mensaje . '</tr> ';
